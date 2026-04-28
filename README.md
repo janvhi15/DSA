@@ -1,3 +1,4 @@
+
 # DSA Notes & Practice (C++)
 
 This repository contains my **Data Structures and Algorithms (DSA)** class notes and **practice questions** solved in **C++**.  
@@ -31,9 +32,6 @@ It is created for learning, revision, and improving problem-solving skills.
 
 ---
 
-## 📂 Folder Structure
-```bash
-DSA/
-│── Notes/
-│── Questions/
-│── Solutions/
+
+
+
